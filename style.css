@@ -1,0 +1,89 @@
+body {
+	background:white;
+	font-family: 'Bitter', serif;
+	background-color:black	;
+	background-image: url(dark.gif)
+}
+a {
+	color:aqua;
+	border:1px rounded white;
+	padding:5px;
+	margin:1px;
+	background:black;
+	
+
+}
+a:hover{
+	color:white;
+}
+	
+p {
+	color:white;
+}
+
+
+h1 {
+	color:hotpink;
+	font-size:200%;
+	border-left:
+		
+}
+h2 {
+	color:violet;
+}
+
+table, th, td { 
+border: 1px solid black:order-collapse: collapse; 
+ }
+
+th{
+	background:black;
+	color:white;
+		
+}
+
+img{
+	width:1000px;
+}
+.picture{ float:left;
+}
+.link{
+	background:none;
+	
+}
+.pictures{
+	width:450px
+}
+.csgo{
+	width:450px
+	}
+div.sticky{
+	position:sticky;
+	top:0;
+}
+h2{
+	color:hotpink;
+}
+.CSGo img{
+	float:right;
+	margin-right: 5px;
+	height:10px;
+}
+.ow{
+	width:450px
+}
+
+.me{
+	width:200px;
+}
+
+.BigTex	{
+	width:170px;	
+}
+
+.Fhc{
+	width:170px;
+}
+.Contact{
+	width:300px;
+}
